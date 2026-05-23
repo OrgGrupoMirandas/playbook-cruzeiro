@@ -10,6 +10,35 @@
 
 ---
 
+## Dois caminhos para embarcar
+
+> **IMPORTANTE: os dois caminhos sao INDEPENDENTES. Voce so precisa de UM deles.**
+
+### Caminho 1 — Individual (nao depende do time)
+- Acumule **1.000 pontos** no ano = Suite garantida
+- **Nao importa se o time bater ou nao os R$400M** — voce vai independente
+
+### Caminho 2 — Coletivo (depende do time E de voce)
+- Time bate **R$400M** no ano **E** voce tem minimo **200 pontos** individuais
+- Se o coletivo bate mas voce nao tem 200 pts = nao embarca
+- Se o coletivo NAO bate mas voce tem 1.000 pts (Caminho 1) = voce ainda vai
+
+> **Resumo simples:** 1.000 pts = voce vai sozinho. Menos que isso? Depende do time bater R$400M e voce ter 200+ pts.
+
+---
+
+## Cabines
+
+| Pontos acumulados | Cabine | Conves |
+|-------------------|--------|--------|
+| 1.000+ pts | Suite | 04 |
+| 700 – 999 pts | Premium | 03 |
+| 400 – 699 pts | Vista Mar | 02 |
+| 200 – 399 pts | Interna | 01 |
+| < 200 pts | Fora do cruzeiro | — |
+
+---
+
 ## Inicio da corrida por setor
 
 | Setor | Inicio | Observacao |
@@ -19,27 +48,17 @@
 
 ---
 
-## Dois caminhos para embarcar
+## Como os pontos sobem
 
-### 1. Individual
-- Acumular **1.000 pontos** no ano = Suite garantida
-- Nao depende do time bater meta coletiva
+**Os pontos NAO sobem automaticamente.**
 
-### 2. Coletivo
-- Time bate **R$400M** no ano **E** voce tem minimo **200 pontos** individuais
-- Se o coletivo bate mas voce nao tem 200 pts = nao embarca
+Processo:
+1. Voce realiza a acao (venda, KPI batido, uso de IA, etc.)
+2. Carla valida os dados nas fontes oficiais (Bitrix, Drive, UptimeRobot, GitHub)
+3. **Todo dia 30:** Carla atualiza o placar oficial
+4. Placar ao vivo: [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br)
 
----
-
-## Cabines
-
-| Pontos | Cabine | Conves |
-|--------|--------|--------|
-| 1.000+ | Suite | 04 |
-| 700 – 999 | Premium | 03 |
-| 400 – 699 | Vista Mar | 02 |
-| 200 – 399 | Interna | 01 |
-| < 200 | Fora | — |
+Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla valida e inclui no fechamento do mes.
 
 ---
 
@@ -61,8 +80,7 @@
 3. Novos contratados entram com 0 pontos a partir do mes de entrada
 4. Placar e publico — todo time ve a pontuacao de todos
 5. Disputa de pontos = Anthony decide (ultima instancia)
-6. Bonus coletivo = se time bate R$400M, TODOS com 200+ pts embarcam
-7. Valor LIQUIDO = vendido menos inadimplencia (nao bruto)
+6. Valor LIQUIDO = vendido menos inadimplencia (nao bruto)
 
 ---
 
