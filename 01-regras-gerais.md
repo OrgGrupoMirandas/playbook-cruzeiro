@@ -90,7 +90,7 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 |----------|------------|
 | KPI nao batido | Nao ganha pontos daquela acao (nao desconta) |
 | Closer < R$2M no mes | 0 pts total do mes (zona morta) |
-| Growth < 1.000 leads/mes | 0 pts resultado |
+| Growth < 700 leads/mes | 0 pts resultado |
 | Abandono de lead quente >72h | -50 pts |
 | Falsificacao de dado no CRM | -50 pts |
 | Growth comportamento < 50% | Resultado pontua pela metade |
