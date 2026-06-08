@@ -11,7 +11,7 @@ Inicio: Mai/2026 — pontos 1.5x para compensar os 8 meses vs 12 do comercial.
 |------|--------|
 | Inadimplencia <= 9,8% no mes (meta) | +75 pts |
 | Inadimplencia <= 5% no mes (super) | +150 pts (substitui os 75) |
-| Conformidade 100% no mes | +50 pts |
+| Conformidade 95% no mes | +50 pts |
 | Inadimplencia > 15% (zona morta) | 0 pts |
 
 ---
