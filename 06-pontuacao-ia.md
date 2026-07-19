@@ -10,6 +10,20 @@ Teto mensal: **30 pts** (exceto Neriton: 5 pts — IA ja e o trabalho dele).
 
 ---
 
+## Regra 10 + 20 (aprovada 19/07/2026)
+
+O teto de 30 pts/mes se divide em duas partes:
+
+| Parte | Pontos | Como |
+|-------|--------|------|
+| **Uso consistente (automatico)** | +10 pts/mes | 15+ dias ativos de IA no mes, medido pelo straude.com (coleta automatica diaria — sem submissao) |
+| **Entrega comprovada** | ate +20 pts/mes | Acoes da tabela abaixo, evidencia via issue (processo oficial) |
+
+> Neriton: fora do +10 automatico (IA ja e o trabalho dele) — teto 5 pts/mes so por entrega.
+> Straude mede USO; entrega real vale mais. Quem nao entrega KPI nao sobe de cabine so com IA.
+
+---
+
 ## Acoes pontuadas
 
 | Acao | Pontos | Como medir |

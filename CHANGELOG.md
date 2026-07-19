@@ -4,6 +4,13 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 19/07/2026 — Regra 10+20 do Bonus IA (aprovada por Anthony)
+
+- Teto 30 pts/mes dividido: +10 automaticos (15+ dias ativos no straude) + ate 20 por entrega via issue
+- Straude instalado em todo o time; coleta automatica diaria no placar
+- Cintia (13693) reclassificada: Imobiliario (nao closer) — pontuacao pela tabela do imobiliario
+- Mateus: linha duplicada unificada (Mateus Fuentes, Assistente de Vendas)
+
 ## 19/07/2026 — Correcao de contradicoes (auditoria Carla)
 
 - Zona morta Growth unificada em <700 leads/mes (04 dizia <1.000, contradizendo a propria tabela e o 01)
