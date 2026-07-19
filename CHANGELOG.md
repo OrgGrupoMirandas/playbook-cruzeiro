@@ -4,6 +4,13 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 19/07/2026 — Correcao de contradicoes (auditoria Carla)
+
+- Zona morta Growth unificada em <700 leads/mes (04 dizia <1.000, contradizendo a propria tabela e o 01)
+- Supermeta comercial: explicitado que os +100 SUBSTITUEM os +50 da meta (ja era assim no calculo)
+- README: removido link quebrado do 07-placar-atual.md (arquivo saiu do repo publico) — placar e o site
+- Participantes: 13 -> 12 (offboarding Growth 25/06)
+
 ## 22/05/2026 — Criacao do playbook
 
 - Playbook criado e publicado no GitHub

@@ -13,7 +13,7 @@ Base de calculo: valor LIQUIDO (vendido - inadimplencia).
 |------|--------|
 | R$1M em credito vendido (liquido) | +10 pts |
 | Mes acima da meta (R$6M liq.) | +50 pts |
-| Mes acima da supermeta (R$12M liq.) | +100 pts |
+| Mes acima da supermeta (R$12M liq.) | +100 pts (SUBSTITUI os +50 da meta — nao soma) |
 | KPIs 100% no mes | +20 pts |
 
 ---
