@@ -42,7 +42,8 @@ Se comportamento < 50% dos KPIs no mes, resultado pontua pela metade.
 
 ## Zona morta
 
-Abaixo de 1.000 leads/mes = 0 pts resultado (mesmo que comportamento esteja ok).
+Abaixo de **700 leads/mes** = 0 pts resultado (mesmo que comportamento esteja ok).
+Entre 700 e 999 pontua o minimo (+30) conforme a tabela acima.
 
 ---
 

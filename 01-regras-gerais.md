@@ -5,7 +5,7 @@
 - **Duracao:** Janeiro a Dezembro de 2026 (13 meses ate o embarque)
 - **Embarque:** 15 de fevereiro de 2027 — Porto de Santos
 - **Destino:** America do Sul
-- **Participantes:** 13 colaboradores do Grupo Mirandas
+- **Participantes:** 12 colaboradores do Grupo Mirandas
 - **Placar ao vivo:** [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br)
 
 ---
