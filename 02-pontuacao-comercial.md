@@ -1,6 +1,6 @@
 # Pontuacao — Comercial (Closers)
 
-Aplicavel a: Adrian, Arthur, Mariah, Mateus Fuentes, Cintia
+Aplicavel a: Adrian, Arthur, Mateus Fuentes
 
 **Meta individual: R$6M/mes LIQUIDO. Supermeta: R$12M.**
 Base de calculo: valor LIQUIDO (vendido - inadimplencia).
