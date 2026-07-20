@@ -4,6 +4,13 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 19/07/2026 — Mariah sai do Cruzeiro (decisao Anthony)
+
+- Mariah Miranda participa apenas do programa Codigo 31 — nao pontua no Cruzeiro
+- Removida do placar (D1 `people.ativo=0`) e da lista de closers do 02
+- Participantes: 12 -> 11
+- Lista de closers acertada: Adrian, Arthur, Mateus Fuentes (Cintia ja reclassificada Imobiliario em 19/07)
+
 ## 19/07/2026 — Regra 10+20 do Bonus IA (aprovada por Anthony)
 
 - Teto 30 pts/mes dividido: +10 automaticos (15+ dias ativos no straude) + ate 20 por entrega via issue
