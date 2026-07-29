@@ -38,6 +38,7 @@ Dois caminhos:
 | [04-pontuacao-growth.md](./04-pontuacao-growth.md) | Growth — pontos por leads e sistemas |
 | [05-pontuacao-coo.md](./05-pontuacao-coo.md) | COO — pontos por margem |
 | [06-pontuacao-ia.md](./06-pontuacao-ia.md) | Bonus IA — uso de inteligencia artificial |
+| [07-pontuacao-assistente.md](./07-pontuacao-assistente.md) | Assistente de Vendas — avaliacao do closer que apoia |
 | [CHANGELOG.md](./CHANGELOG.md) | Historico de mudancas de regra |
 
 > Placar individual: ao vivo em [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br) (atualizacao automatica diaria + fechamento dia 30).

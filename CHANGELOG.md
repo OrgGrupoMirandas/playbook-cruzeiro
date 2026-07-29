@@ -4,6 +4,31 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 29/07/2026 — Imobiliario e Financeiro saem · regua do Assistente · ×1,5 explicitado
+
+**Decisoes do Anthony:**
+- **Cintia (Imobiliario) e Midiane (Financeiro) nao participam** do Cruzeiro — removidas do placar
+  (D1 `people.ativo=0`). Nunca tiveram tabela de pontuacao propria; ficavam no placar sem regua.
+- **Meta coletiva mantida em R$400M.** Avaliada a reducao para R$200M e recusada: R$400M entrega
+  60% de margem e R$9,88M de resultado, o unico patamar que sustenta a tese patrimonial.
+  Analise completa em `playbook-ceo/03-metricas/03-margem-por-volume.md`.
+- **Assistente de Vendas ganha regua propria** (`07-pontuacao-assistente.md`): Mateus so pontua se
+  o Adrian bater R$6M liquido; com a meta batida o Adrian classifica Pouco (+25) / Medio (+55) /
+  Muito (+100), com justificativa de uma linha ate o dia 28. Sem multiplicador. Teto real: Premium.
+  Antes ele era pontuado como closer (setor `comercial`) e caia na zona morta de R$2M todo mes.
+
+**Correcoes de clareza (a fonte da confusao do Neriton):**
+- **×1,5 agora e explicito** nos arquivos 03, 04 e 05: toda tabela tem coluna "Base" e coluna
+  "Recebe (×1,5)". O multiplicador e aplicado **por cima** da tabela — nunca esteve embutido,
+  mas o playbook nao dizia.
+- **CS: faixa 9,8%–15% de inadimplencia = 0 pts**, explicitado. Nao existe pontuacao parcial.
+- **CS: pontuacao e de time, nao individual** — Kamila, Sara e Andrea recebem o mesmo numero.
+- **Growth e COO: comportamental/margem sao lancamento manual** — sem lancamento ate o dia 28,
+  o mes fecha em zero. Antes isso so estava no codigo.
+- Participantes: 11 -> 8 · KPIs coletivos atualizados para julho/2026.
+
+---
+
 ## 19/07/2026 — Mariah sai do Cruzeiro (decisao Anthony)
 
 - Mariah Miranda participa apenas do programa Codigo 31 — nao pontua no Cruzeiro

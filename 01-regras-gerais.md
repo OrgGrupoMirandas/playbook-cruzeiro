@@ -5,7 +5,7 @@
 - **Duracao:** Janeiro a Dezembro de 2026 (13 meses ate o embarque)
 - **Embarque:** 15 de fevereiro de 2027 — Porto de Santos
 - **Destino:** America do Sul
-- **Participantes:** 11 colaboradores do Grupo Mirandas
+- **Participantes:** 8 colaboradores do Grupo Mirandas
 - **Placar ao vivo:** [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br)
 
 ---
@@ -41,10 +41,14 @@
 
 ## Inicio da corrida por setor
 
-| Setor | Inicio | Observacao |
-|-------|--------|------------|
-| Comercial (closers) | Janeiro 2026 | Retroativo Jan-Abr ja computado |
-| CS, Growth, COO, Assistente | Maio 2026 | 8 meses — pontos 1.5x para compensar |
+| Setor | Inicio | Multiplicador |
+|-------|--------|---------------|
+| Comercial (closers) | Janeiro 2026 | sem multiplicador — 12 meses cheios |
+| CS, Growth, COO | Maio 2026 | **×1,5** aplicado por cima da tabela do setor |
+| Assistente de Vendas | Maio 2026 | sem multiplicador — valores ja finais (ver 07) |
+
+> O ×1,5 **nao esta embutido** nas tabelas dos arquivos 03/04/05. A tabela mostra a base;
+> o multiplicador entra depois. Cada arquivo traz as duas colunas para nao restar duvida.
 
 ---
 
@@ -64,12 +68,14 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 
 ## Meta coletiva
 
-| KPI | Atual | Meta |
-|-----|-------|------|
-| Receita anual | R$78M (YTD mai/26) | R$400M |
-| Close rate medio | 8% | 15% |
-| Leads/mes | 890 | 1.700 |
-| Inadimplencia | 18% | 9,8% |
+| KPI | Atual (jul/26) | Meta |
+|-----|----------------|------|
+| Vendido no ano | R$89,9M YTD | **R$400M** |
+| Close rate medio | 11,4% | 15% |
+| Leads/mes | 92 | 1.700 |
+| Inadimplencia | 12,9% | 9,8% |
+
+> Meta coletiva mantida em R$400M (decisao Anthony, 29/07/2026).
 
 ---
 

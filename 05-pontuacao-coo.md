@@ -1,23 +1,31 @@
 # Pontuacao — COO (Edwards)
 
-Inicio: Mai/2026 — pontos 1.5x.
+Inicio: Mai/2026 — pontos **×1,5**.
 Edwards responde por Financeiro + Imobiliario + CS.
 
-**Meta dura: margem da empresa >= 70%.**
+> **Como ler a tabela:** a coluna "Base" e o valor do playbook; o ×1,5 e aplicado **por cima** dela.
+> A coluna "Recebe" ja e o numero final que entra no placar.
+
+**Meta dura: margem operacional da empresa >= 70% (sem pro-labore).**
 Se a margem cai, Edwards nao pontua resultado — independente dos setores individuais.
+
+Fonte da margem: fechamento mensal do Conta Azul (Midiane, 5o dia util).
 
 ---
 
 ## Pontuacao
 
-| Acao | Pontos |
-|------|--------|
-| Margem empresa >= 70% no mes | +75 pts |
-| Margem empresa >= 80% no mes (super) | +150 pts (substitui os 75) |
-| Todos os setores sob ele bateram meta | +45 pts |
-| Fechamento financeiro no prazo | +25 pts |
-| Inadimplencia CS abaixo de 9,8% | +25 pts |
-| Mes com todos KPIs 100% | +30 pts |
+| Acao | Base | **Recebe (×1,5)** |
+|------|------|-------------------|
+| Margem operacional >= 80% no mes (super) | 150 | **225 pts** (substitui os 113) |
+| Margem operacional >= 70% no mes | 75 | **113 pts** |
+| Todos os setores sob ele bateram meta | 45 | **68 pts** |
+| Fechamento financeiro no prazo | 25 | **38 pts** |
+| Inadimplencia CS abaixo de 9,8% | 25 | **38 pts** |
+| Mes com todos KPIs 100% | 30 | **45 pts** |
+
+> Pontuacao **lancada manualmente** — depende do fechamento da Midiane chegar ate o dia 28.
+> Sem fechamento lancado, o mes fecha em zero.
 
 ---
 
