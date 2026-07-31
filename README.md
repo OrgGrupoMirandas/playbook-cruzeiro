@@ -14,6 +14,9 @@ Dois caminhos:
 | **Individual** | Acumular 1.000 pontos no ano |
 | **Coletivo** | Time bate R$400M no ano + voce tem minimo 200 pts |
 
+> Entrou no time depois de janeiro? Os dois cortes caem proporcionalmente —
+> ver [08-entrada-proporcional.md](./08-entrada-proporcional.md).
+
 ---
 
 ## Cabines
@@ -39,6 +42,7 @@ Dois caminhos:
 | [05-pontuacao-coo.md](./05-pontuacao-coo.md) | COO — pontos por margem |
 | [06-pontuacao-ia.md](./06-pontuacao-ia.md) | Bonus IA — uso de inteligencia artificial |
 | [07-pontuacao-assistente.md](./07-pontuacao-assistente.md) | Assistente de Vendas — avaliacao do closer que apoia |
+| [08-entrada-proporcional.md](./08-entrada-proporcional.md) | Quem entra no meio do ano — multiplicador e cortes proporcionais |
 | [CHANGELOG.md](./CHANGELOG.md) | Historico de mudancas de regra |
 
 > Placar individual: ao vivo em [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br) (atualizacao automatica diaria + fechamento dia 30).

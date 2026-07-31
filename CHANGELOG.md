@@ -4,6 +4,28 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — Entrada proporcional (novo capitulo 08)
+
+Quem entra no time depois de janeiro passa a ter multiplicador proporcional, em vez de
+"0 pontos e boa sorte". A regra ja existia na pratica (o ×1,5 dos setores que comecaram em
+maio) mas nunca foi escrita como formula geral — logo nao servia para contratacao nova.
+
+- **Formula unica:** `multiplicador = 12 ÷ meses de participacao no ano`.
+  Reproduz exatamente o vigente: janeiro ×1,00 · maio ×1,50 (12÷8). Nada muda para quem ja corre.
+- **Teto de 3,0** (setembro) — impede que quem entra em dezembro passe na frente de quem carregou o ano.
+- **Piso de 4 meses** — entrou de outubro em diante nao corre por cabine individual; so caminho
+  coletivo, corte proporcional, cabine Interna. Corrida cheia comeca em janeiro seguinte.
+- **Regra do dia 15** — entrou ate o dia 15, o mes conta; do 16 em diante comeca no mes seguinte.
+- **Corte coletivo tambem escala:** `200 × (meses ÷ 12)`.
+- **Excecoes com multiplicador 1,00:** assistente de vendas (regua ja final), bonus IA (teto e
+  mensal) e penalidades (erro grave custa igual para todos).
+- **Saida/mudanca de funcao** documentada: muda de setor mantem pontos e passa a pontuar pela
+  tabela nova, sem recalcular multiplicador.
+- Regra 3 das gerais reescrita · site (capitulo 03 das Regras) · coletor (`scoring.mjs` +
+  coluna `mes_entrada` no D1) atualizados junto.
+
+---
+
 ## 29/07/2026 — Imobiliario e Financeiro saem · regua do Assistente · ×1,5 explicitado
 
 **Decisoes do Anthony:**

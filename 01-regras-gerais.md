@@ -43,12 +43,15 @@
 
 | Setor | Inicio | Multiplicador |
 |-------|--------|---------------|
-| Comercial (closers) | Janeiro 2026 | sem multiplicador — 12 meses cheios |
-| CS, Growth, COO | Maio 2026 | **×1,5** aplicado por cima da tabela do setor |
-| Assistente de Vendas | Maio 2026 | sem multiplicador — valores ja finais (ver 07) |
+| Comercial (closers) | Janeiro 2026 | **×1,00** — 12 meses cheios |
+| CS, Growth, COO | Maio 2026 | **×1,50** aplicado por cima da tabela do setor |
+| Assistente de Vendas | Maio 2026 | **×1,00** — valores ja finais (ver 07) |
 
-> O ×1,5 **nao esta embutido** nas tabelas dos arquivos 03/04/05. A tabela mostra a base;
+> O multiplicador **nao esta embutido** nas tabelas dos arquivos 03/04/05. A tabela mostra a base;
 > o multiplicador entra depois. Cada arquivo traz as duas colunas para nao restar duvida.
+
+O ×1,5 nao e um numero escolhido a mao — e a formula `12 ÷ meses de participacao` (12÷8 = 1,5).
+A mesma formula vale para quem entrar no time em qualquer mes: ver **`08-entrada-proporcional.md`**.
 
 ---
 
@@ -83,7 +86,8 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 
 1. Pontos NAO sao transferiveis entre pessoas
 2. Desligados perdem pontuacao e nao embarcam
-3. Novos contratados entram com 0 pontos a partir do mes de entrada
+3. Novos contratados entram com **0 pontos e multiplicador proporcional** ao mes de entrada —
+   formula, travas e cortes em `08-entrada-proporcional.md`
 4. Placar e publico — todo time ve a pontuacao de todos
 5. Disputa de pontos = Anthony decide (ultima instancia)
 6. Valor LIQUIDO = vendido menos inadimplencia (nao bruto)
