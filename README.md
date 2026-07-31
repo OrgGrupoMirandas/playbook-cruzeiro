@@ -46,6 +46,7 @@ Programa de incentivo anual do Grupo Mirandas.
 | [CHANGELOG.md](./CHANGELOG.md) | Historico de mudancas de regra |
 
 > Placar individual: ao vivo em [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br) (atualizacao automatica diaria + fechamento dia 30).
+> **Regulamento na integra (baixavel em PDF):** [cruzeiro.grupomirandas.com.br/regulamento.html](https://cruzeiro.grupomirandas.com.br/regulamento.html)
 
 ---
 
