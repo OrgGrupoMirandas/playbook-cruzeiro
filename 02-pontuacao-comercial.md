@@ -47,7 +47,7 @@ Base de calculo em todas: valor **LIQUIDO** (vendido - inadimplencia).
 ## Zona morta
 
 Abaixo de R$2M no mes = 0 pts total do mes (nem proporcional).
-Abaixo de R$2M por 3 meses consecutivos = desligamento.
+Abaixo de R$2M por 3 meses consecutivos = revisao do contrato de prestacao de servicos (regua comercial).
 
 ---
 

@@ -5,17 +5,16 @@ Programa de incentivo anual do Grupo Mirandas.
 
 ---
 
-## Como embarcar
+## Como funciona
 
-Dois caminhos:
+| Camada | O que decide |
+|--------|--------------|
+| **Embarque** | Contrato ativo + sem penalidade grave = **todos vao** |
+| **Cabine** | Seus pontos no ano (Suite 2.000 · Premium 1.500 · Vista Mar 1.000) |
+| **Acompanhante** | O time: **370 familias E R$200M** no ano = todos levam |
 
-| Caminho | Condicao |
-|---------|----------|
-| **Individual** | Acumular 1.000 pontos no ano |
-| **Coletivo** | Time bate R$400M no ano + voce tem minimo 200 pts |
-
-> Entrou no time depois de janeiro? Os dois cortes caem proporcionalmente —
-> ver [08-entrada-proporcional.md](./08-entrada-proporcional.md).
+> Detalhe das camadas: [10-embarque-cabines-acompanhante.md](./10-embarque-cabines-acompanhante.md).
+> Entrou depois de janeiro? Multiplicador proporcional: [08-entrada-proporcional.md](./08-entrada-proporcional.md).
 
 ---
 
@@ -23,11 +22,10 @@ Dois caminhos:
 
 | Pontos acumulados | Cabine | Convés |
 |-------------------|--------|--------|
-| 1.000+ pts | Suite | 04 |
-| 700 – 999 pts | Premium | 03 |
-| 400 – 699 pts | Vista Mar | 02 |
-| 200 – 399 pts | Interna | 01 |
-| < 200 pts | Fora do cruzeiro | — |
+| 2.000+ pts | Suite | 04 |
+| 1.500 – 1.999 pts | Premium | 03 |
+| 1.000 – 1.499 pts | Vista Mar | 02 |
+| abaixo de 1.000 | Interna | 01 |
 
 ---
 
@@ -43,6 +41,8 @@ Dois caminhos:
 | [06-pontuacao-ia.md](./06-pontuacao-ia.md) | Bonus IA — uso de inteligencia artificial |
 | [07-pontuacao-assistente.md](./07-pontuacao-assistente.md) | Assistente de Vendas — avaliacao do closer que apoia |
 | [08-entrada-proporcional.md](./08-entrada-proporcional.md) | Quem entra no meio do ano — multiplicador e cortes proporcionais |
+| [09-regras-de-borda.md](./09-regras-de-borda.md) | As 12 situacoes de excecao — saida, licenca, cancelamento, contestacao |
+| [10-embarque-cabines-acompanhante.md](./10-embarque-cabines-acompanhante.md) | As tres camadas do premio — embarque, cabine, acompanhante |
 | [CHANGELOG.md](./CHANGELOG.md) | Historico de mudancas de regra |
 
 > Placar individual: ao vivo em [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br) (atualizacao automatica diaria + fechamento dia 30).

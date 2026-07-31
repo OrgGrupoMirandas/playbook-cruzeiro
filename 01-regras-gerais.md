@@ -10,20 +10,21 @@
 
 ---
 
-## Dois caminhos para embarcar
+## As tres camadas do premio
 
-> **IMPORTANTE: os dois caminhos sao INDEPENDENTES. Voce so precisa de UM deles.**
+> **REESTRUTURADO EM 31/07/2026** — ver `10-embarque-cabines-acompanhante.md` (as tres camadas).
 
-### Caminho 1 — Individual (nao depende do time)
-- Acumule **1.000 pontos** no ano = Suite garantida
-- **Nao importa se o time bater ou nao os R$400M** — voce vai independente
+### Camada 1 — Embarque: TODOS vao
+Contrato ativo ate 31/12 e sem penalidade grave = voce embarca. Ninguem fica no porto.
 
-### Caminho 2 — Coletivo (depende do time E de voce)
-- Time bate **R$400M** no ano **E** voce tem minimo **200 pontos** individuais
-- Se o coletivo bate mas voce nao tem 200 pts = nao embarca
-- Se o coletivo NAO bate mas voce tem 1.000 pts (Caminho 1) = voce ainda vai
+### Camada 2 — Cabine: conquista individual
+Suite 2.000 · Premium 1.500 · Vista Mar 1.000 · Interna abaixo. Suite exige supermeta sustentada.
 
-> **Resumo simples:** 1.000 pts = voce vai sozinho. Menos que isso? Depende do time bater R$400M e voce ter 200+ pts.
+### Camada 3 — Acompanhante: conquista coletiva
+**370 familias E R$200M** no ano = acompanhante para todos. Gatilhos maiores destravam mais (`10`).
+
+> **Resumo simples:** todo mundo vai. Seus pontos decidem ONDE voce dorme.
+> A receita do time decide QUEM vai com voce.
 
 ---
 
@@ -31,11 +32,13 @@
 
 | Pontos acumulados | Cabine | Conves |
 |-------------------|--------|--------|
-| 1.000+ pts | Suite | 04 |
-| 700 – 999 pts | Premium | 03 |
-| 400 – 699 pts | Vista Mar | 02 |
-| 200 – 399 pts | Interna | 01 |
-| < 200 pts | Fora do cruzeiro | — |
+| 2.000+ pts | Suite | 04 |
+| 1.500 – 1.999 pts | Premium | 03 |
+| 1.000 – 1.499 pts | Vista Mar | 02 |
+| abaixo de 1.000 | Interna | 01 |
+
+> Ninguem fica fora — embarque e a Camada 1 (`10`). Faixas vigentes desde o relancamento de 03/08/2026;
+> antes: Suite 1.000 / Premium 700 / Vista 400 / Interna 200.
 
 ---
 
@@ -85,7 +88,7 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 ## Regras base
 
 1. Pontos NAO sao transferiveis entre pessoas
-2. Desligados perdem pontuacao e nao embarcam
+2. Contrato de prestacao de servicos encerrado durante a corrida = perde pontuacao e nao embarca (bordas e excecoes: `09`)
 3. Novos contratados entram com **0 pontos e multiplicador proporcional** ao mes de entrada —
    formula, travas e cortes em `08-entrada-proporcional.md`
 4. Placar e publico — todo time ve a pontuacao de todos

@@ -4,6 +4,33 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — As tres camadas + regras de borda + regulamento (auditoria completa)
+
+Auditoria de fim de dia achou 12 situacoes sem regra, 5 mecanismos mortos e o desenho que
+pagava o status quo (5 de 9 chegavam a Suite sem mudar nada). Reestruturacao:
+
+- **Tres camadas** (novo `10`): EMBARQUE para todos (contrato ativo + sem penalidade grave) ·
+  CABINE individual com faixas novas (Suite 2.000 · Premium 1.500 · Vista Mar 1.000 · Interna
+  abaixo) · ACOMPANHANTE coletivo (gatilho duplo: **370 familias E R$200M** = todos levam 1;
+  460+R$250M bebidas/excursao; 550+R$300M upgrade). Morrem: "1.000 = Suite garantida",
+  "coletivo R$400M + 200 pts" e "abaixo de 200 = fora".
+- **Gatilho duplo e anti-burla:** so familias inflaria com cotas menores faturando menos;
+  so receita perderia a lingua da missao. Anuncia em familias, mede nos dois.
+- **Regras de borda** (novo `09`): saida antes do embarque (quem venceu e foi dispensado sem
+  violacao MANTEM o premio), suspensao/afastamento pausa a regua, premio personalissimo e
+  inconversivel em dinheiro, clawback de venda cancelada (so cota com 1a parcela paga),
+  fechamento 05/01 + contestacao ate 10/01 + definitivo 20/01, empate/arredondamento,
+  entrada em jan/27, nao-recorrencia, semana do embarque com plantao, tributos, rito da
+  penalidade -50.
+- **Linguagem PJ:** participantes sao prestadores de servico. "Desligamento" vira encerramento
+  de contrato; a campanha e formalizada como incentivo comercial com **adesao assinada** —
+  regulamento juridico em rascunho no repo privado, revisao do Mota ate 15/08.
+- Custo auditado: cenario-alvo R$132k (2,6% da comissao em caixa) · retorno liquido ~44x ·
+  provisao R$22k/mes (Midiane) · cotacao a travar em agosto.
+- Vigencia: relancamento de **03/08/2026** na Sala de Guerra.
+
+---
+
 ## 31/07/2026 — COO: regua reconstruida a partir do playbook do proprio COO
 
 Quarto e ultimo setor revisado. Diagnostico: dos 302 pts/mes da regua antiga, **113 eram
