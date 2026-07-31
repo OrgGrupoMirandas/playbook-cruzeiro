@@ -4,6 +4,27 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — Comercial passa a ter tres reguas (gerente, closer, ramp-up)
+
+Contexto: Adrian promovido a gerente comercial em teste em 01/07 e Pedro Pasin entrou
+como closer no mesmo dia. Uma regua so nao servia para tres papeis diferentes.
+
+- **Gerente (Adrian)** — vigente a partir de **ago/2026**. Venda propria com **peso 0,5**
+  (R$1M = +5 · mes >= R$6M = +25) e resultado do time com peso cheio (time >= R$12M = +60 ·
+  >= R$20M = +120 · CR medio do time pela tabela cheia · nenhum closer na zona morta = +30).
+  Zona morta: time somado abaixo de R$6M zera o mes. Os **790 pts de jan-jul sao mantidos**.
+- **Ramp-up (closer novo)** — degraus nos 3 primeiros meses: mes 1-2 piso R$1M / meta R$2M (+25) ·
+  mes 3 piso R$1,5M / meta R$4M (+40) · mes 4+ regua cheia. R$1M = +10 e close rate valem
+  desde o mes 1, sem degrau.
+- **Pedro Pasin** cadastrado: Bitrix 37087, entrada 2026-07 => multiplicador **x2,00**,
+  Suite em **500 pts**, corte coletivo **100 pts**. Julho real: R$2,05M, CR 7,1%, 5 vendas.
+- Mateus Fuentes fica **fora** do agregado do time (assistente, sem carteira propria — o CR
+  zerado dele derrubaria o CR do time).
+- Site: capitulos 07 (Gerente) e 08 (Ramp-up) · coletor: `gerentePoints()`, `degrauRampUp()`,
+  `mesDeCasa()` em `scoring.mjs` · D1: Pedro cadastrado e Adrian movido para setor `gerente`.
+
+---
+
 ## 31/07/2026 — Entrada proporcional (novo capitulo 08)
 
 Quem entra no time depois de janeiro passa a ter multiplicador proporcional, em vez de
