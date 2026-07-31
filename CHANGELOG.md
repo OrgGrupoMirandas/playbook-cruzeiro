@@ -4,6 +4,37 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — Growth: duas fontes (cat 0 resultado · cat 21 comportamento)
+
+Terceiro setor revisado. A regua antiga media **uma fonte so** (cat 21) com faixas calibradas
+em maio, que foi o **pico** daquele canal (988 leads).
+
+| Mes | cat 0 | cat 21 |
+|-----|-------|--------|
+| Marco | 203 | 15 |
+| Abril | 515 | **1.166** |
+| Maio | 383 | 988 |
+| Junho | 264 | 412 |
+| Julho | **346** | **335** |
+
+- A cat 21 **caiu 71%** de abril a julho; a cat 0 ficou estavel. Em julho as duas se cruzaram.
+- Com zona morta em 700 e meta em 1.500, o Growth ficava em **zona morta todo mes** por
+  qualquer das duas fontes. KPI que ninguem alcanca nao mede nada.
+- **RESULTADO passa a ser cat 0** (topo do funil inteiro, onde o closer trabalha):
+  <250 zona morta · 250-349 = 45 · 350-499 = 75 · 500-699 meta = 113 · >=700 super = 225.
+- **cat 21 vira item de COMPORTAMENTO** ("Julia viva"): >=400/mes E sem queda >30% vs mes
+  anterior = +30. As duas condicoes valem juntas — entregar 400 despencando de 700 nao pontua.
+  Existe para a Julia nao morrer em silencio enquanto a cat 0 se sustenta por outros canais.
+- Junho e julho **nao sao recalculados** (`escalaGrowth(mes)`).
+- Efeito no Neriton: sai de 295 pts congelados (cabine Interna garantida) para 520 repetindo
+  julho, ou ~1.010 com 520 leads cat 0 + Julia viva.
+- **Comportamental de sistemas passa a ser semi-automatico:** uptime, webhook Julia→Bitrix,
+  Meta Ads e entregas de sprint viram medicao do coletor; Lead Hub, Brevo e disparos seguem
+  manuais ate existir fonte programatica. O comportamental vale 234 pts/mes e **nunca foi
+  lancado uma unica vez** desde maio.
+
+---
+
 ## 31/07/2026 — CS: escala nova de inadimplencia + conformidade vai para medicao automatica
 
 Segundo setor revisado. A escala antiga foi escrita em maio com a inadimplencia em 12,9%;
