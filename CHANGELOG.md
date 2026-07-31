@@ -4,6 +4,25 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — CS: escala nova de inadimplencia + conformidade vai para medicao automatica
+
+Segundo setor revisado. A escala antiga foi escrita em maio com a inadimplencia em 12,9%;
+julho fechou em **2,72%** — o CS batia o teto de 300 pts todo mes sem degrau acima.
+
+- **Escala nova a partir de ago/2026:** super <=2% (225) · meta <=3% (113) · 3-6% zero ·
+  >6% zona morta. Junho e julho **nao sao recalculados** — seguem pela escala antiga
+  (mesma regra da promocao: mudanca de regua nao reescreve mes ja pontuado).
+- Efeito: mantendo os mesmos 2,72%, o CS passa de 300 para **188 pts/mes**. Para voltar ao
+  teto precisa levar a inadimplencia a <=2%. Projecao de dezembro da Kamila cai de 2.298
+  para 1.738 — Suite ainda, mas conquistada em vez de automatica.
+- **Conformidade:** descoberto que existe **um unico lancamento** no historico (baseline de
+  maio, 99,58%) e que junho e julho reusaram esse mesmo numero — 75 pts/mes por uma medicao
+  de tres meses atras. Decisao: **automatizar** via export do CS Control, nao voltar ao
+  lancamento manual. Ate a automacao entrar, o comportamento atual continua.
+- KPI do topo do site atualizado: teto de inadimplencia 9,8% -> 3,0%.
+
+---
+
 ## 31/07/2026 — Gerente vale desde JULHO · trava do assistente migra para o time
 
 Correcao das duas decisoes tomadas na mesma sessao, depois de olhar o julho real.
