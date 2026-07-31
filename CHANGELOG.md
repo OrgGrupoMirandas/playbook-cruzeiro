@@ -4,6 +4,33 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — COO: regua reconstruida a partir do playbook do proprio COO
+
+Quarto e ultimo setor revisado. Diagnostico: dos 302 pts/mes da regua antiga, **113 eram
+inalcancaveis, 144 mediam o trabalho de outras pessoas e 38 eram ponto gratis**. Praticamente
+nada media a gestao dele — e nada foi lancado desde maio (congelado em 340 pts).
+
+- **A margem de 70% era impossivel.** Tabela de `playbook-ceo/03-metricas/03-margem-por-volume.md`:
+  R$200M (ritmo real) = 57% sem pro-labore · R$400M (meta maxima) = **68%**. A regua exigia >=70%.
+  Nem o cenario perfeito chegava la. **Nova ancora: meta 60%, super 65%, zona morta <50%.**
+  A diretriz Equipe A ("nunca abaixo de 70%") segue como norte estrategico — deixou de ser
+  gatilho de pontuacao.
+- **Arremata.ai entra como resultado** — MRR cresceu (38) e churn <20% (23) / <12% (38). E o
+  unico numero que nao depende de Kamila, Midiane ou Cintia; ele e dono direto desde 01/06.
+- **Bloco de GESTAO novo**, tirado dos KPIs operacionais que ja existiam no `playbook-coo` e
+  nunca foram usados aqui: zero tarefa atrasada >48h (23) · zero imovel parado >7 dias (23) ·
+  fechamento ate o 5o dia util (23) · aprovacao de contas toda quarta (15) · pacote da Sala de
+  Guerra (15) · 1:1 mensais com Kamila e Midiane (15).
+- **Dois desses ja sao medidos pelo coletor** direto no Bitrix (tarefas atrasadas e imoveis parados).
+- **Removido "inadimplencia CS <9,8%"** (38 pts): duplicava o KPI da Kamila e, com a inadimplencia
+  em 2,72%, era ponto gratis todo mes.
+- Teto: 302 -> **338 pts/mes**. Junho e julho nao sao recalculados.
+- Efeito: com margem fora da meta e Arremata ruim, so a gestao ja rende **113 pts/mes** — antes
+  seria zero. Ele sai de "cabine Interna garantida" para 905 pts em dezembro so mantendo a casa
+  em ordem.
+
+---
+
 ## 31/07/2026 — Growth: duas fontes (cat 0 resultado · cat 21 comportamento)
 
 Terceiro setor revisado. A regua antiga media **uma fonte so** (cat 21) com faixas calibradas
