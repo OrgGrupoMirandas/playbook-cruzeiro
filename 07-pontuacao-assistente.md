@@ -1,22 +1,28 @@
 # Pontuacao — Assistente de Vendas (Mateus Fuentes)
 
-O assistente nao vende sozinho — ele faz o closer vender mais. Por isso a pontuacao dele
-**depende do resultado do closer que ele apoia** (Adrian) e da avaliacao mensal desse closer.
+O assistente nao vende sozinho — ele faz o time vender mais. Por isso a pontuacao dele
+**depende do resultado do time comercial** e da avaliacao mensal do gerente.
 
 ---
 
-## Trava — o closer tem que bater a meta
+## Trava — o time tem que bater a meta
 
-**Se o Adrian fechar o mes abaixo de R$6M liquido, o Mateus pontua 0.**
+**Se o time comercial fechar o mes abaixo de R$12M liquido, o Mateus pontua 0.**
 
-Nao existe pontuacao de assistente em mes que o closer nao entregou. Os dois sobem juntos ou
-nenhum sobe.
+Time = **Adrian + Arthur + Pedro** (liquido somado no mes) — exatamente o mesmo numero
+que o gerente persegue na secao 2 do `02`.
+
+> **Por que mudou (31/07/2026):** a trava antiga era "Adrian fechar R$6M liquido pessoal".
+> Com a promocao dele a gerente em 01/07, o proprio Adrian deixou de ser medido por venda
+> pessoal — em julho ele fez R$3,86M e o time fez R$12,9M. Pela regra antiga o Mateus
+> zeraria num mes em que o time bateu a meta. Agora assistente, gerente e time perseguem
+> **um numero so**: sobem juntos ou nenhum sobe.
 
 ---
 
-## Avaliacao mensal — Adrian classifica
+## Avaliacao mensal — o gerente classifica
 
-Com a meta batida, o Adrian classifica a contribuicao do Mateus no mes:
+Com a meta do time batida, o Adrian classifica a contribuicao do Mateus no mes:
 
 | Nivel | Pontos | Criterio |
 |-------|--------|----------|
@@ -48,7 +54,7 @@ Partindo dos 210 pts de julho/2026, com 5 meses restantes (ago–dez):
 | "Muito" todo mes | 710 pts | Premium |
 | "Medio" todo mes | 485 pts | Vista Mar |
 | "Pouco" todo mes | 335 pts | Interna |
-| Adrian nao bate a meta | 210 pts | Interna |
+| Time nao bate R$12M | 210 pts | Interna |
 
 A regua foi calibrada para que nem o cenario perfeito alcance a Suite — assistente nao empata
 com closer. O teto real do Mateus e Premium.
@@ -62,3 +68,17 @@ Vale normalmente: teto de 30 pts/mes pela regra 10+20 (ver `06-pontuacao-ia.md`)
 ---
 
 > Esta pontuacao e **manual** — nao entra pelo coletor automatico. Depende do lancamento do Adrian.
+
+---
+
+## Retroativo pendente (31/07/2026)
+
+A regua do assistente nasceu em 29/07 e **nenhum mes foi lancado ainda**. Os meses ja
+destravados pela trava do time:
+
+| Mes | Time (liquido) | Trava | Status |
+|-----|----------------|-------|--------|
+| Junho | R$17,3M | destravada | aguardando classificacao do Adrian |
+| Julho | ~R$12,9M | destravada | aguardando classificacao do Adrian |
+
+Sem lancamento, os dois meses fecham em zero e o Mateus fica congelado nos 210 pts.

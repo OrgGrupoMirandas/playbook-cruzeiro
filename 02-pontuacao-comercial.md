@@ -53,8 +53,12 @@ Abaixo de R$2M por 3 meses consecutivos = desligamento.
 
 # 2. Gerente Comercial (Adrian)
 
-Vigente a partir de **agosto/2026**. Os **790 pts** acumulados de jan–jul como closer
-sao **mantidos** — mudanca de regua nao zera o que ja foi feito.
+Vigente a partir de **julho/2026** — o mes da promocao. Junho e todos os meses anteriores
+continuam pontuados pela regua de closer: **promocao nao reescreve mes antigo**.
+
+Os pontos de jan–jun (**740**) sao mantidos integralmente. Julho e recalculado pela regua
+de gerente: sai de 50 pts (closer) para **110 pts**, porque o time bateu R$12M mesmo com a
+venda pessoal dele em R$3,86M. E exatamente o que a regua nova existe para capturar.
 
 O gerente ainda vende, mas o peso principal migra para o resultado do time.
 Time = **Adrian + Arthur + Pedro** (liquido somado no mes).
@@ -117,8 +121,26 @@ mas tambem nao fica sem cobranca.
 | Suite | **500 pts** |
 | Corte coletivo | **100 pts** |
 | Ramp-up | jul–ago R$2M · set R$4M · out+ R$6M |
-| Julho real | R$2,05M · CR 7,1% · 5 vendas |
+| Julho real | R$2,05M · CR 7,1% · 5 vendas — meta do degrau batida |
 
 ---
 
 > Para detalhes sobre comissao financeira (%), consultar o playbook-comercial.
+
+---
+
+# Julho/2026 — como os tres se comportaram
+
+Primeiro mes com os tres papeis no lugar. Liquido do Syscon, close rate do Bitrix.
+
+| | Liquido | CR | Regua | Pontos |
+|---|---|---|---|---|
+| Adrian | R$3,86M | 8,5% | gerente | **110** (15 propria + 60 time + 5 CR + 30 gestao) |
+| Arthur | R$7,14M | 7,6% | closer | **125** (70 volume + 50 meta + 5 CR) |
+| Pedro | ~R$1,9M | 7,1% | ramp-up mes 1 | **100** (10 volume + 25 meta, ×2,00) |
+| **Time** | **~R$12,9M** | **7,7%** | — | meta de R$12M **batida** |
+
+A leitura: o Adrian vendeu menos da metade da meta pessoal antiga e ainda assim fez 110 pts,
+porque o time entregou. Se o Pedro nao tivesse entrado, o time fecharia em R$11M — abaixo dos
+R$12M — e o gerente cairia para **20 pts**. A regua do gerente e sensivel ao time inteiro por
+construcao.

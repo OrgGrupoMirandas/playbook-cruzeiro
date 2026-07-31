@@ -4,6 +4,28 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 31/07/2026 — Gerente vale desde JULHO · trava do assistente migra para o time
+
+Correcao das duas decisoes tomadas na mesma sessao, depois de olhar o julho real.
+
+- **Gerente vigente a partir de julho/2026** (era agosto). Julho e o mes da promocao —
+  nao fazia sentido pontuar o mes inteiro por uma regua que ja nao descrevia o cargo.
+  Efeito: julho do Adrian sai de 50 pts (closer) para **110 pts** (gerente), porque o time
+  fechou ~R$12,9M mesmo com a venda pessoal dele em R$3,86M.
+- **Promocao nao reescreve mes antigo.** Colunas `setor_desde` e `setor_anterior` no D1 +
+  `setorVigente()` no coletor: junho e anteriores continuam sendo pontuados como closer,
+  qualquer que seja o recalculo. Sem isso, um backfill apagaria os 140 pts corretos de junho.
+- **Trava do assistente migra de "Adrian >= R$6M pessoal" para "time >= R$12M"** (`07`).
+  Com a promocao, o proprio Adrian deixou de ser medido por venda pessoal — em julho ele fez
+  R$3,86M e pela regra antiga o Mateus zeraria num mes em que o time bateu a meta. Agora
+  assistente, gerente e time perseguem **um numero so**.
+- Junho (R$17,3M) e julho (~R$12,9M) estao **destravados** para o Mateus — falta o Adrian
+  lancar a classificacao dos dois meses.
+- Site ganhou o **capitulo 09 (Assistente)**, que nunca existiu — o Mateus nao conseguia ler
+  a propria regua em lugar nenhum.
+
+---
+
 ## 31/07/2026 — Comercial passa a ter tres reguas (gerente, closer, ramp-up)
 
 Contexto: Adrian promovido a gerente comercial em teste em 01/07 e Pedro Pasin entrou
