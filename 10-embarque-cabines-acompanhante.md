@@ -110,7 +110,7 @@ que o ponto da Kamila depende do Arthur vender e vice-versa.
 |--------------|-----------------|
 | "1.000 pts = Suite garantida, nao importa o time" | Suite em 2.000 · embarque com piso de 1.000 (trabalho feito) |
 | "Coletivo: R$400M + 200 pts minimos" | Gatilho de familias/receita da Camada 3 |
-| "Abaixo de 200 pts = fora do cruzeiro" | Ninguem fica fora — fica na Interna |
+| "Abaixo de 200 pts = fora do cruzeiro" | Piso passa a ser 1.000 — trabalho do ano feito |
 
 ## Custo e retorno (auditoria 31/07)
 

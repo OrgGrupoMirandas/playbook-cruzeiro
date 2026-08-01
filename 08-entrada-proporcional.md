@@ -43,7 +43,7 @@ poderia passar na frente de quem carregou o ano inteiro com um unico mes bom.
 ### 2. Piso de 4 meses
 Entrou de **outubro em diante**: nao corre por cabine individual naquele ano.
 
-- **Embarca normalmente** (Camada 1 do `10` — todos vao), em cabine Interna
+- **Embarca como integracao** (Camada 1 do `10`), em cabine Interna — fora da corrida do ano
 - Se o gatilho coletivo disparar, leva acompanhante como todo mundo
 - No ano seguinte comeca a corrida cheia, com multiplicador 1,00
 
@@ -94,7 +94,7 @@ Closer contratado em 04/08/2026 (entrou antes do dia 15 → agosto conta).
 - Multiplicador: 12 ÷ 5 = **2,40**
 - Vende R$4M liquidos em setembro: 40 pts (volume) × 2,40 = **96 pts**
 - Precisa de **833 pts brutos** para a Suite (corte 2.000 ÷ 2,40)
-- Embarque ja garantido pela Camada 1 — o multiplicador so decide a cabine
+- Piso de embarque: os mesmos 1.000 do placar — o multiplicador ja compensa a entrada tardia
 
 ---
 

@@ -9,7 +9,7 @@ Programa de incentivo anual do Grupo Mirandas.
 
 | Camada | O que decide |
 |--------|--------------|
-| **Embarque** | Contrato ativo + sem penalidade grave = **todos vao** |
+| **Embarque** | Contrato ativo + sem penalidade grave + **1.000 pts** (piso de trabalho feito) |
 | **Cabine** | Seus pontos no ano (Suite 2.000 · Premium 1.500 · Vista Mar 1.000) |
 | **Acompanhante** | O time: **370 familias E R$200M** no ano = todos levam |
 

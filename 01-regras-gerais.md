@@ -38,7 +38,7 @@ Suite 2.000 · Premium 1.500 · Vista Mar 1.000 · Interna abaixo. Suite exige s
 | 1.000 – 1.499 pts | Vista Mar | 02 |
 | abaixo de 1.000 | Interna | 01 |
 
-> Ninguem fica fora — embarque e a Camada 1 (`10`). Faixas vigentes desde o relancamento de 03/08/2026;
+> Embarque = piso de 1.000 (Camada 1, `10`). Faixas vigentes desde o relancamento de 03/08/2026;
 > antes: Suite 1.000 / Premium 700 / Vista 400 / Interna 200.
 
 ---
