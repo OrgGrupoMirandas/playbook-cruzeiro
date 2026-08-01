@@ -59,8 +59,24 @@ E receita, os dois juntos:
 |-------------------|----------|
 | **370 familias E R$200M** no ano | **Acompanhante para todos que embarcam** |
 | 460 familias E R$250M | + pacote de bebidas e 1 excursao |
-| 550 familias E R$300M | + upgrade de uma categoria para todos |
-| 738 familias E R$400M | **a missao — bonus de 13a, 14a e 15a remuneracoes** (3 faturamentos mensais medios da PJ, base no regulamento juridico) |
+| 550 familias E R$300M | + upgrade de categoria + **13a remuneracao** |
+| 645 familias E R$350M | + **14a remuneracao** |
+| 738 familias E R$400M | + **15a remuneracao — a missao completa** |
+
+### Bonus de Missao (OTE) — quem entregou de verdade recebe mais
+
+Cada "remuneracao extra" = 1 faturamento mensal medio da PJ em 2026 (base definida no
+regulamento juridico com a Midiane), multiplicado pelo **fator de performance individual**:
+
+| Pontos no ano | Fator OTE | Leitura |
+|---------------|-----------|---------|
+| >= 2.000 (Suite) | **100%** | entregou a supermeta — recebe cheio |
+| 1.500 – 1.999 | **85%** | acima do esperado |
+| 1.000 – 1.499 | **60%** | fez o trabalho — embarca e participa |
+| abaixo de 1.000 | **0%** | nao embarcou, nao ha bonus |
+
+O placar e o indice: ponto ja e performance de setor, ja e proporcional a entrada, ja e
+auditado. Ninguem discute atingimento em dezembro — ele esta publico o ano inteiro.
 
 **Por que gatilho duplo:** so familias seria burlavel — vender cotas menores infla o numero de
 familias faturando MENOS. So receita perderia a linguagem da missao. Os dois juntos: anuncia-se

@@ -84,10 +84,14 @@ degraus, e cada um destrava algo real (detalhe no `10`):
 
 | Degrau | Destrava | Status (jul/26) |
 |--------|----------|-----------------|
-| 370 familias E R$200M | acompanhante para todos | YTD R$115,9M · 214 familias |
+| 370 familias E R$200M | acompanhante para todos | YTD R$121,1M · 223 familias |
 | 460 familias E R$250M | + bebidas e excursao | |
-| 550 familias E R$300M | + upgrade de cabine | |
-| **738 familias E R$400M** | **a missao — 13a, 14a e 15a remuneracoes** (3 faturamentos mensais medios extras por pessoa) | |
+| 550 familias E R$300M | + upgrade de cabine **+ 13a remuneracao** | |
+| 645 familias E R$350M | **+ 14a remuneracao** | |
+| **738 familias E R$400M** | **+ 15a — a missao completa** | |
+
+> As remuneracoes extras (OTE) sao pagas pelo **fator de performance individual** — o placar
+> diz o que cada um entregou de verdade. Detalhe no `10` e no regulamento.
 
 | KPI | Atual (jul/26) | Meta da regua | Missao |
 |-----|----------------|---------------|--------|
