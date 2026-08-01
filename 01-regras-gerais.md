@@ -2,8 +2,8 @@
 
 ## O programa
 
-- **Duracao:** Janeiro a Dezembro de 2026 (13 meses ate o embarque)
-- **Embarque:** 15 de fevereiro de 2027 — Porto de Santos
+- **Duracao da corrida:** Janeiro a Dezembro de 2026
+- **Embarque:** 2027 — Porto de Santos (data definida na contratacao da viagem, comunicada ate 30/11/2026)
 - **Destino:** America do Sul
 - **Participantes:** 8 colaboradores do Grupo Mirandas
 - **Placar ao vivo:** [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br)
@@ -125,4 +125,4 @@ algo real para o time (detalhe no `10`):
 | Atualizacao do placar | Dia 30 de cada mes (Carla) |
 | Revisao de quem esta abaixo de 200 pts | Toda segunda — Sala de Guerra |
 | Encerramento da corrida | 31/dez/2026 |
-| Embarque | 15/fev/2027 |
+| Embarque | 2027 — data na melhor cotacao (comunicada ate 30/11) |

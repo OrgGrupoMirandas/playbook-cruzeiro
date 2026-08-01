@@ -1,7 +1,7 @@
 # Cruzeiro dos Campeoes 2027
 
 Programa de incentivo anual do Grupo Mirandas.
-**Premiacao:** cruzeiro maritimo — America do Sul, saida Porto de Santos, **15/fev/2027**.
+**Premiacao:** cruzeiro maritimo — America do Sul, saida Porto de Santos, **2027** (data definida na contratacao da viagem, comunicada ate 30/11/2026).
 
 ---
 

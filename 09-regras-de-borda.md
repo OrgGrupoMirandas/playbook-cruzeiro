@@ -11,7 +11,7 @@ Criado em 31/07/2026 depois da auditoria completa do programa. Sao as 12 situaco
 
 ## 1. Encerramento de contrato ANTES do embarque
 
-A corrida termina em **31/12/2026**. O embarque e em **15/02/2027**. No intervalo:
+A corrida termina em **31/12/2026**. O embarque e em **2027** (data na contratacao). No intervalo:
 
 | Situacao | Resultado |
 |----------|-----------|
