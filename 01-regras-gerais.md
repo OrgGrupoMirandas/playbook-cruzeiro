@@ -86,12 +86,11 @@ degraus, e cada um destrava algo real (detalhe no `10`):
 |--------|----------|-----------------|
 | 370 familias E R$200M | acompanhante para todos | YTD R$121,1M · 223 familias |
 | 460 familias E R$250M | + bebidas e excursao | |
-| 550 familias E R$300M | + upgrade de cabine **+ 13a remuneracao** | |
-| 645 familias E R$350M | **+ 14a remuneracao** | |
-| **738 familias E R$400M** | **+ 15a — a missao completa** | |
+| 550 familias E R$300M | + upgrade de cabine | |
+| **738 familias E R$400M** | **a missao — destrava a 13a, 14a e 15a** | |
 
-> As remuneracoes extras (OTE) sao pagas pelo **fator de performance individual** — o placar
-> diz o que cada um entregou de verdade. Detalhe no `10` e no regulamento.
+> O bonus de missao SO existe nos R$400M. E quantas das tres remuneracoes cada um leva
+> depende do **OTE — a performance individual no placar**. Detalhe no `10` e no regulamento.
 
 | KPI | Atual (jul/26) | Meta da regua | Missao |
 |-----|----------------|---------------|--------|

@@ -57,21 +57,21 @@ E receita, os dois juntos:
 |-------------------|----------|
 | **370 familias E R$200M** no ano | **Acompanhante para todos que embarcam** |
 | 460 familias E R$250M | + pacote de bebidas e 1 excursao |
-| 550 familias E R$300M | + upgrade de categoria + **13a remuneracao** |
-| 645 familias E R$350M | + **14a remuneracao** |
-| 738 familias E R$400M | + **15a remuneracao — a missao completa** |
+| 550 familias E R$300M | + upgrade de uma categoria para todos |
+| **738 familias E R$400M** | **a missao — destrava o Bonus de Missao (13a, 14a e 15a)** |
 
-### Bonus de Missao (OTE) — quem entregou de verdade recebe mais
+### Bonus de Missao (OTE) — so nos R$400M, e a performance decide quantas
 
-Cada "remuneracao extra" = 1 faturamento mensal medio da PJ em 2026 (base definida no
-regulamento juridico com a Midiane), multiplicado pelo **fator de performance individual**:
+O gatilho e um so: **738 familias E R$400M**. Batido, cada participante leva de 0 a 3
+remuneracoes extras (1 remuneracao = 1 faturamento mensal medio da PJ em 2026; base definida
+no regulamento juridico) conforme **o que entregou de verdade no placar**:
 
-| Pontos no ano | Fator OTE | Leitura |
-|---------------|-----------|---------|
-| >= 2.000 (Suite) | **100%** | entregou a supermeta — recebe cheio |
-| 1.500 – 1.999 | **85%** | acima do esperado |
-| 1.000 – 1.499 | **60%** | fez o trabalho — embarca e participa |
-| abaixo de 1.000 | **0%** | nao embarcou, nao ha bonus |
+| Pontos no ano | Leva | Leitura |
+|---------------|------|---------|
+| >= 2.000 (Suite) | **13a + 14a + 15a** | entregou a supermeta — leva as tres |
+| 1.500 – 1.999 | **13a + 14a** | acima do esperado — leva duas |
+| 1.000 – 1.499 | **13a** | fez o trabalho — leva uma |
+| abaixo de 1.000 | **nada** | nao embarcou, nao ha bonus |
 
 O placar e o indice: ponto ja e performance de setor, ja e proporcional a entrada, ja e
 auditado. Ninguem discute atingimento em dezembro — ele esta publico o ano inteiro.

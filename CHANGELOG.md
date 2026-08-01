@@ -4,6 +4,16 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 01/08/2026 (final) — Bonus de Missao corrigido: SO os R$400M destravam; o OTE decide quantas
+
+Correcao do Anthony sobre a versao escalonada: nao ha 13a em 300M nem 14a em 350M. O bonus
+so existe com a missao batida (738 familias E R$400M). Destravao, a performance individual
+no placar decide quantas das tres cada um leva: Suite (>=2.000) leva as tres · 1.500-1.999
+leva duas · piso (1.000-1.499) leva uma · abaixo do piso, nenhuma. 300M segue com o upgrade
+de cabine; o degrau de 350M foi removido.
+
+---
+
 ## 01/08/2026 (noite) — Fim do ultimo ponto facil · bonus de missao 13a/14a/15a nos R$400M
 
 - **Conformidade sem heranca:** desde a criacao do placar, os 75 pts/mes de conformidade eram
