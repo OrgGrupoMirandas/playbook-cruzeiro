@@ -10,8 +10,6 @@ de pontuacao dos capitulos 02-07 seguem valendo). Vigencia: **relancamento de 03
 
 ## Camada 1 — EMBARQUE: piso de trabalho feito
 
-*(Atualizado em 01/08/2026 — vigencia com o aceite do regulamento, ate 15/08.)*
-
 Embarca quem fechar o ano com:
 
 1. Contrato de prestacao de servicos **ativo** ate 31/12/2026 e **sem penalidade grave**; E
