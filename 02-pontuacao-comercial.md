@@ -118,8 +118,8 @@ mas tambem nao fica sem cobranca.
 |---|---|
 | Entrada | 01/07/2026 (Bitrix ID 37087) |
 | Multiplicador | **×2,00** (12 ÷ 6 meses) |
-| Suite | **500 pts** |
-| Corte coletivo | **100 pts** |
+| Suite | **1.000 pts brutos** (corte 2.000 ÷ 2,00) |
+| Embarque | garantido pela Camada 1 (`10`) |
 | Ramp-up | jul–ago R$2M · set R$4M · out+ R$6M |
 | Julho real | R$2,05M · CR 7,1% · 5 vendas — meta do degrau batida |
 

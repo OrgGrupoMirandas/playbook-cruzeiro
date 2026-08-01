@@ -45,21 +45,19 @@ Com a meta do time batida, o Adrian classifica a contribuicao do Mateus no mes:
 
 ---
 
-## Onde isso leva
+## Onde isso leva (faixas novas de cabine — Suite 2.000 · Premium 1.500 · Vista 1.000)
 
-Partindo dos 210 pts de julho/2026, com 5 meses restantes (ago–dez):
+Partindo dos 210 pts + retroativo jun/jul destravado, com ago-dez pela frente:
 
-| Se o Adrian classificar... | Dezembro | Cabine |
-|----------------------------|----------|--------|
-| "Muito" todo mes | 710 pts | Premium |
-| "Medio" todo mes | 485 pts | Vista Mar |
-| "Pouco" todo mes | 335 pts | Interna |
-| Time nao bate R$12M | 210 pts | Interna |
+| Cenario | Dezembro | Cabine |
+|---------|----------|--------|
+| Retro "Muito" x2 + "Muito" todo mes + bonus IA cheio | ~1.060 | Vista Mar |
+| Retro "Medio" x2 + "Medio" todo mes | ~595 | Interna |
+| Time nao bate R$12M | 210 congelado | Interna |
 
-A regua foi calibrada para que nem o cenario perfeito alcance a Suite — assistente nao empata
-com closer. O teto real do Mateus e Premium.
-
----
+**Teto real do assistente: Vista Mar** (e so com IA em dia). Assistente nao empata com quem
+carrega carteira — e por desenho. O embarque dele esta garantido pela Camada 1 (`10`);
+a classificacao do Adrian decide o conforto.
 
 ## Bonus IA
 

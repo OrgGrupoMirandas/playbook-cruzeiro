@@ -1,7 +1,7 @@
 # Entrada Proporcional — quem chega no meio do ano
 
 Quem entra no time depois de janeiro corre menos meses. Sem correcao, essa pessoa
-disputaria a mesma cabine de 1.000 pts com metade do tempo — o que na pratica significa
+disputaria as mesmas cabines (Suite 2.000) com metade do tempo — o que na pratica significa
 ficar de fora antes de comecar.
 
 A correcao ja existia no programa, mas so para os setores que comecaram em maio (o **×1,5**).
@@ -19,20 +19,15 @@ Multiplicador = 12 ÷ (meses de participacao no ano)
 O multiplicador e aplicado **por cima** dos pontos da tabela do setor da pessoa —
 exatamente como o ×1,5 ja funciona hoje para CS, Growth e COO.
 
-| Entra em | Meses no ano | Multiplicador | Pontos "reais" para a Suite |
-|----------|--------------|---------------|-----------------------------|
-| Janeiro | 12 | **1,00** | 1.000 |
-| Fevereiro | 11 | **1,09** | 917 |
-| Marco | 10 | **1,20** | 833 |
-| Abril | 9 | **1,33** | 750 |
-| Maio | 8 | **1,50** | 667 |
-| Junho | 7 | **1,71** | 583 |
-| Julho | 6 | **2,00** | 500 |
-| Agosto | 5 | **2,40** | 417 |
-| Setembro | 4 | **3,00** *(teto)* | 333 |
-| Outubro | 3 | — | so caminho coletivo |
-| Novembro | 2 | — | so caminho coletivo |
-| Dezembro | 1 | — | so caminho coletivo |
+| Entra em | Meses no ano | Multiplicador | Pontos brutos para a Suite (corte 2.000) |
+|----------|--------------|---------------|------------------------------------------|
+| Janeiro | 12 | **1,00** | 2.000 |
+| Maio | 8 | **1,50** | 1.333 |
+| Junho | 7 | **1,71** | 1.167 |
+| Julho | 6 | **2,00** | 1.000 |
+| Agosto | 5 | **2,40** | 833 |
+| Setembro | 4 | **3,00** *(teto)* | 667 |
+| Out–Dez | <= 3 | — | nao corre por cabine no ano (embarca pela Camada 1) |
 
 > A linha de **maio = ×1,50** e a mesma regra que ja vale hoje para CS, Growth e COO.
 > Nada muda para quem ja esta na corrida.
@@ -48,9 +43,8 @@ poderia passar na frente de quem carregou o ano inteiro com um unico mes bom.
 ### 2. Piso de 4 meses
 Entrou de **outubro em diante**: nao corre por cabine individual naquele ano.
 
-- Concorre **apenas pelo caminho coletivo**, com corte proporcional:
-  `200 pts × (meses ÷ 12)` — outubro 50 pts, novembro 33 pts, dezembro 17 pts
-- Se embarcar pelo coletivo, entra na **cabine Interna**
+- **Embarca normalmente** (Camada 1 do `10` — todos vao), em cabine Interna
+- Se o gatilho coletivo disparar, leva acompanhante como todo mundo
 - No ano seguinte comeca a corrida cheia, com multiplicador 1,00
 
 ### 3. Regra do dia 15
@@ -59,30 +53,11 @@ Entrou de **outubro em diante**: nao corre por cabine individual naquele ano.
 
 ---
 
-## O corte coletivo tambem e proporcional
+## Nota historica — corte coletivo (extinto em 31/07/2026)
 
-O minimo de 200 pts do Caminho 2 tambem escala. Nao faz sentido exigir de quem tem 5 meses
-o mesmo que se exige de quem tem 12.
-
-```
-Corte coletivo = 200 × (meses ÷ 12)
-```
-
-| Entra em | Corte coletivo |
-|----------|----------------|
-| Janeiro | 200 pts |
-| Maio | 133 pts |
-| Julho | 100 pts |
-| Agosto | 83 pts |
-| Setembro | 67 pts |
-| Outubro | 50 pts |
-| Novembro | 33 pts |
-| Dezembro | 17 pts |
-
-> As faixas de cabine (Suite / Premium / Vista Mar / Interna) **nao mudam**. Quem tem
-> multiplicador chega nelas com menos pontos brutos — que e exatamente o objetivo.
-
----
+A regra do "minimo de 200 pts para embarcar pelo coletivo" **morreu com as tres camadas**
+(`10`): o embarque agora e garantido a todo contrato ativo. Este capitulo segue valendo
+apenas para o **multiplicador de pontos** — que define cabine, nao embarque.
 
 ## Excecoes
 
@@ -111,8 +86,8 @@ Closer contratado em 04/08/2026 (entrou antes do dia 15 → agosto conta).
 - Meses de participacao: ago–dez = **5**
 - Multiplicador: 12 ÷ 5 = **2,40**
 - Vende R$4M liquidos em setembro: 40 pts (volume) × 2,40 = **96 pts**
-- Precisa de **417 pts brutos** para a Suite, nao 1.000
-- Corte do caminho coletivo: **83 pts**, nao 200
+- Precisa de **833 pts brutos** para a Suite (corte 2.000 ÷ 2,40)
+- Embarque ja garantido pela Camada 1 — o multiplicador so decide a cabine
 
 ---
 

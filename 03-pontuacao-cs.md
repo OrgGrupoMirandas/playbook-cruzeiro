@@ -8,56 +8,40 @@ Inicio: Mai/2026 — pontos **×1,5** para compensar os 8 meses vs 12 do comerci
 
 ---
 
-## KPIs de pontuacao — escala vigente (a partir de AGOSTO/2026)
+## KPIs de pontuacao — regua vigente (a partir de AGOSTO/2026)
 
-| Acao | Base | **Recebe (×1,5)** |
-|------|------|-------------------|
-| Inadimplencia <= 2% no mes (super) | 150 | **225 pts** (substitui a meta) |
-| Inadimplencia <= 3% no mes (meta) | 75 | **113 pts** |
-| Inadimplencia entre 3% e 6% | 0 | **0 pts** |
-| Inadimplencia > 6% (zona morta) | 0 | **0 pts** |
-| Conformidade >= 95% no mes | 50 | **75 pts** |
+**A inadimplencia do placar e a MEDIA MOVEL de 3 meses** (mes corrente + 2 anteriores) — nao o
+mes isolado. Motivo: 2,72% esta a 0,28pp da linha de 3%; no mes isolado, um cliente internado
+zeraria o mes por puro ruido (Monte Carlo de 01/08: dispararia em 80% das simulacoes).
 
-**Maximo possivel: 300 pts/mes.**
+| Acao | Condicao | **Recebe (final, ×1,5 ja aplicado)** |
+|------|----------|--------------------------------------|
+| Inadimplencia SUPER | media 3m <= 2% **E venda propria >= R$1M no mes** | **225 pts** (substitui a meta) |
+| Inadimplencia meta | media 3m <= 3% | **113 pts** |
+| Conformidade | >= 95% no mes | **75 pts** |
+| Venda ativa (token) | venda propria >= R$500k no mes, com media 3m <= 3% | **+25 pts fixos** |
+| Entre 3% e 6% | — | 0 pts (so conformidade) |
+| Zona morta | media 3m > 6% | **0 pts no mes inteiro** |
 
-### Escala anterior — vale ate JULHO/2026
+**Maximo: 325 pts/mes.** Venda e INDIVIDUAL (carteira propria e indicacao de cotista — nunca
+lead de trafego/Julia); inadimplencia e conformidade seguem de time.
 
-| Acao | Base | Recebe (×1,5) |
-|------|------|---------------|
-| Inadimplencia <= 5% (super) | 150 | 225 pts |
-| Inadimplencia <= 9,8% (meta) | 75 | 113 pts |
-| Acima de 9,8% | 0 | 0 pts |
+### Por que a venda e GATILHO, nao moeda (decisao de 01/08/2026)
 
-Junho e julho foram pontuados por ela e **nao sao recalculados** — mudanca de regua nao
-reescreve mes ja fechado (mesma regra da promocao do Adrian, `02` secao 2).
+**A comissao financeira ja paga a venda — e paga bem. Ponto nao remunera o que o dinheiro
+remunera.** A venda destrava a supermeta (fechadura dupla: cobrar E vender) e um token fixo.
+Nao existe ponto proporcional a volume: vender R$4M vale o mesmo token que R$500k — a
+diferenca vai no bolso, via comissao.
 
----
-
-## Por que a escala mudou (31/07/2026)
-
-A escala antiga foi escrita em maio, quando a inadimplencia era **12,9%**. O que aconteceu depois:
-
-| Mes | Inadimplencia | Pontos |
-|-----|---------------|--------|
-| Maio | 12,9% | 310 (baseline) |
-| Junho | 5,81% | 188 |
-| **Julho** | **2,72%** | **300 — teto maximo da regua** |
-
-Em julho o CS fechou em **quase metade da supermeta**. Batia o teto todo mes sem ter para
-onde subir: o KPI parou de medir esforco e virou pagamento por manter o que ja estava feito.
-
-A escala nova ancora nos 2,72% reais. Com o mesmo numero de julho, o CS passa a bater a
-**meta** (113) em vez da super (225) — e volta a existir um degrau a conquistar.
-
-> Isso nao diminui o que foi entregue: derrubar 12,9% para 2,72% protegeu muito dinheiro.
-> A regua e que ficou parada no mundo de maio.
-
----
+O que cada peca faz:
+- **Fechadura dupla da super:** os 225 que antes vinham so de cobrar agora exigem vender junto.
+  Manter o que ja existe rende 188; o teto exige as duas maos.
+- **Token de R$500k:** degrau de arrancada para quem nunca vendeu (Andrea) — sem inflar nada.
+- **Trava:** media 3m acima de 3% e a venda nao conta NADA. Ninguem troca cobranca por venda.
 
 ## Nao existe pontuacao parcial de inadimplencia
 
-Entre a meta e a zona morta a pontuacao e **zero**. Ou bate a meta, ou nao pontua.
-Chegar em 3,2% nao vale "quase os 113".
+Entre a meta e a zona morta a pontuacao e **zero**. Ou bate a meta (na media 3m), ou nao pontua.
 
 A **conformidade pontua separado**: da para ganhar os 75 pts mesmo com a inadimplencia fora da meta.
 
@@ -78,11 +62,11 @@ fonte do export com o Neriton.
 
 ---
 
-## A pontuacao e de time, nao individual
+## Time e individuo
 
-Inadimplencia e conformidade sao medidas do **CS inteiro**, nao por pessoa.
-Kamila, Sara e Andrea recebem **exatamente os mesmos pontos** todos os meses.
-Diferencas no placar vem so da base historica de cada uma.
+Inadimplencia e conformidade sao medidas do **CS inteiro** — as tres recebem o mesmo.
+A **venda e individual**: quem vende destrava a propria super e o proprio token.
+E a primeira parte da regua do CS que separa as tres.
 
 ---
 

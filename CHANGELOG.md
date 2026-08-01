@@ -4,6 +4,27 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 01/08/2026 — Venda como gatilho no CS · media movel · gatilho conta a casa toda · varredura de congruencia
+
+Pacote aprovado pelo Anthony apos o Monte Carlo do sistema (20k simulacoes, P(>=200M) 68% -> 84%
+com estes dois primeiros degraus).
+
+- **CS: venda e GATILHO, nao moeda** (principio: a comissao ja paga o volume — ponto nao remunera
+  o que o dinheiro remunera). Super de 225 vira fechadura dupla: media 3m <= 2% E venda >= R$1M.
+  Token fixo de +25 com venda >= R$500k. Trava: media 3m > 3% e a venda nao conta nada.
+- **Media movel de 3 meses** na inadimplencia do placar (achado do MC: 2,72% esta a 0,28pp da
+  linha de 3% — no mes isolado a trava dispararia em 80% das simulacoes por ruido).
+- **Gatilho coletivo conta TODA venda do Syscon** — inclusive o balde "casa/outros" (R$805k em
+  julho) que o contador ignorava. Termometro de familias exposto no /cdc-data.
+- **Varredura de congruencia** (5 correcoes da reforma de 31/07): penalidade do Growth no 01
+  (era <700 cat21, agora <250 cat0) · meta coletiva do 01 virou a escada ate R$400M · teto do
+  assistente no 07 recalculado para as faixas novas (Vista Mar, nao Premium) · tabela do 08
+  reancorada na Suite 2.000 + corte coletivo extinto (Camada 1) · caso Pedro no 02 idem.
+- **Rodada do coletor de 01/08 validada:** receita do Pedro casou no Syscon (R$3,99M em julho),
+  Adrian recalculado como gerente (130 pts), time julho R$16,2M.
+
+---
+
 ## 31/07/2026 — As tres camadas + regras de borda + regulamento (auditoria completa)
 
 Auditoria de fim de dia achou 12 situacoes sem regra, 5 mecanismos mortos e o desenho que

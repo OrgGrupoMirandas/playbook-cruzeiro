@@ -72,18 +72,26 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 
 ---
 
-## Meta coletiva
+## Meta coletiva — a escada ate os R$400M
 
-| KPI | Atual (jul/26) | Meta |
-|-----|----------------|------|
-| Vendido no ano | R$89,9M YTD | **R$400M** |
-| Close rate medio | 11,4% | 15% |
-| Leads/mes | 92 | 1.700 |
-| Inadimplencia | 12,9% | 9,8% |
+**A missao e R$400M — 738 familias.** O caminho ate ela tem degraus, e cada degrau destrava
+algo real para o time (detalhe no `10`):
 
-> Meta coletiva mantida em R$400M (decisao Anthony, 29/07/2026).
+| Degrau | Destrava | Status (jul/26) |
+|--------|----------|-----------------|
+| 370 familias E R$200M | acompanhante para todos | YTD R$115,9M · 214 familias |
+| 460 familias E R$250M | + bebidas e excursao | |
+| 550 familias E R$300M | + upgrade de cabine | |
+| **738 familias E R$400M** | **a missao — experiencia de destino** | |
 
----
+| KPI | Atual (jul/26) | Meta da regua | Missao |
+|-----|----------------|---------------|--------|
+| Close rate medio | ~8-9% | 12-15% (tabela do closer) | 15% |
+| Leads/mes (cat 0) | ~350 | 500-699 | 700+ |
+| Inadimplencia (media 3m) | 2,7% | <= 3% · super <= 2% | <= 2% |
+
+> Meta coletiva de missao mantida em R$400M (decisao Anthony, 29/07/2026). Os degraus
+> intermediarios existem para a corrida nunca morrer: sempre ha um proximo alvo alcancavel.
 
 ## Regras base
 
@@ -102,8 +110,8 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 | Situacao | Penalidade |
 |----------|------------|
 | KPI nao batido | Nao ganha pontos daquela acao (nao desconta) |
-| Closer < R$2M no mes | 0 pts total do mes (zona morta) |
-| Growth < 700 leads/mes | 0 pts resultado |
+| Closer < R$2M no mes (ramp-up tem piso proprio, ver `02`) | 0 pts total do mes (zona morta) |
+| Growth < 250 leads/mes (cat 0, regua de ago/26) | 0 pts resultado |
 | Abandono de lead quente >72h | -50 pts |
 | Falsificacao de dado no CRM | -50 pts |
 | Growth comportamento < 50% | Resultado pontua pela metade |
