@@ -4,6 +4,21 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 01/08/2026 (noite) — Fim do ultimo ponto facil · bonus de missao 13a/14a/15a nos R$400M
+
+- **Conformidade sem heranca:** desde a criacao do placar, os 75 pts/mes de conformidade eram
+  pagos herdando o baseline de maio. A partir de agosto, so pontua **medicao do proprio mes**
+  (lancamento ate o dia 28 com evidencia, ou automacao). Principio do Anthony: ponto e
+  conquistado com performance do setor — o placar nao paga o que nao foi medido.
+- **R$400M destrava a 13a, 14a e 15a remuneracoes** — 3 faturamentos mensais medios extras por
+  participante elegivel. No instrumento juridico: "bonus de campanha" (nunca "13o salario" —
+  vocabulario CLT em contrato PJ e risco de vinculo; nota #4 pro Mota). Autofinanciado: em
+  R$400M ha ~R$16M de comissao e 60% de margem — o bonus custa 2-4% do resultado que so existe
+  se a missao for batida.
+- Escada final: 200M acompanhante · 250M bebidas · 300M upgrade · **400M = 13a/14a/15a**.
+
+---
+
 ## 01/08/2026 (tarde) — Embarque vira piso de 1.000 · assistente recalibrado · ancora de custeio
 
 Decisao do Anthony: com as reguas recalibradas, 1.000 pontos e alcancavel por TODA regua

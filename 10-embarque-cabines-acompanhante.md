@@ -60,7 +60,7 @@ E receita, os dois juntos:
 | **370 familias E R$200M** no ano | **Acompanhante para todos que embarcam** |
 | 460 familias E R$250M | + pacote de bebidas e 1 excursao |
 | 550 familias E R$300M | + upgrade de uma categoria para todos |
-| 738 familias E R$400M | a missao — experiencia de destino definida pelo Anthony |
+| 738 familias E R$400M | **a missao — bonus de 13a, 14a e 15a remuneracoes** (3 faturamentos mensais medios da PJ, base no regulamento juridico) |
 
 **Por que gatilho duplo:** so familias seria burlavel — vender cotas menores infla o numero de
 familias faturando MENOS. So receita perderia a linguagem da missao. Os dois juntos: anuncia-se

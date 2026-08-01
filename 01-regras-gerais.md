@@ -87,7 +87,7 @@ degraus, e cada um destrava algo real (detalhe no `10`):
 | 370 familias E R$200M | acompanhante para todos | YTD R$115,9M · 214 familias |
 | 460 familias E R$250M | + bebidas e excursao | |
 | 550 familias E R$300M | + upgrade de cabine | |
-| **738 familias E R$400M** | **a missao — experiencia de destino** | |
+| **738 familias E R$400M** | **a missao — 13a, 14a e 15a remuneracoes** (3 faturamentos mensais medios extras por pessoa) | |
 
 | KPI | Atual (jul/26) | Meta da regua | Missao |
 |-----|----------------|---------------|--------|

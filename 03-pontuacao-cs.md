@@ -56,9 +56,11 @@ export do CS Control, como ja acontece com receita e inadimplencia. Sai do lanca
 (99,58%). Junho e julho reusaram esse mesmo numero. Eram 75 pts/mes pagos no automatico por
 uma medicao que ninguem refez desde maio.
 
-**Enquanto a automacao nao entra**, vale o comportamento atual (herda o ultimo valor lancado).
-Pendencias para fechar: mapear os processos criticos que compoem o percentual e confirmar a
-fonte do export com o Neriton.
+**A partir de AGOSTO a heranca acabou** ("nao quero ponto facil" — Anthony, 01/08): conformidade
+so pontua com **medicao do proprio mes** — lancamento da Kamila ate o dia 28 com evidencia, ou
+medicao automatica quando o export entrar. Sem medicao no mes = 0 nos 75 pts.
+Pendencias da automacao: processos que compoem o percentual (Kamila, #16021) e fonte do export
+(Neriton, #15723).
 
 ---
 
