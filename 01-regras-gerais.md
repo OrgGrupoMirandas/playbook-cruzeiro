@@ -14,8 +14,9 @@
 
 > **REESTRUTURADO EM 31/07/2026** — ver `10-embarque-cabines-acompanhante.md` (as tres camadas).
 
-### Camada 1 — Embarque: TODOS vao
-Contrato ativo ate 31/12 e sem penalidade grave = voce embarca. Ninguem fica no porto.
+### Camada 1 — Embarque: piso de trabalho feito
+Contrato ativo + sem penalidade grave + **1.000 pontos no placar** (piso unico — o multiplicador
+de entrada ja torna proporcional). Toda regua alcanca 1.000 fazendo o proprio trabalho.
 
 ### Camada 2 — Cabine: conquista individual
 Suite 2.000 · Premium 1.500 · Vista Mar 1.000 · Interna abaixo. Suite exige supermeta sustentada.
@@ -23,7 +24,7 @@ Suite 2.000 · Premium 1.500 · Vista Mar 1.000 · Interna abaixo. Suite exige s
 ### Camada 3 — Acompanhante: conquista coletiva
 **370 familias E R$200M** no ano = acompanhante para todos. Gatilhos maiores destravam mais (`10`).
 
-> **Resumo simples:** todo mundo vai. Seus pontos decidem ONDE voce dorme.
+> **Resumo simples:** fez o trabalho do ano, voce vai. Seus pontos decidem ONDE voce dorme.
 > A receita do time decide QUEM vai com voce.
 
 ---
@@ -74,8 +75,12 @@ Para **bonus de IA:** registre a evidencia conforme `06-pontuacao-ia.md`. Carla 
 
 ## Meta coletiva — a escada ate os R$400M
 
-**A missao e R$400M — 738 familias.** O caminho ate ela tem degraus, e cada degrau destrava
-algo real para o time (detalhe no `10`):
+**A missao e R$400M — 738 familias.** Referencia: 2025 fechou em **R$148M**. O caminho tem
+degraus, e cada um destrava algo real (detalhe no `10`):
+
+- **R$200M** (+35% sobre 2025) e o **minimo que paga o programa** — abaixo disso o premio sai da margem
+- **R$250M+** (+69%) e o patamar **ideal** — o programa se paga com folga e sobra caixa
+- **R$400M** e a missao
 
 | Degrau | Destrava | Status (jul/26) |
 |--------|----------|-----------------|

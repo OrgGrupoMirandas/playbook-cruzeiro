@@ -53,6 +53,13 @@ Entrou de **outubro em diante**: nao corre por cabine individual naquele ano.
 
 ---
 
+## Embarque e o piso de 1.000
+
+O piso de embarque (`10`, Camada 1) e **1.000 pontos no placar, igual para todos** — nao precisa
+de tabela por mes de entrada porque o multiplicador deste capitulo ja esta embutido nos pontos:
+quem entra em setembro ganha ×3 por mes e alcanca os mesmos 1.000 fazendo o proprio trabalho.
+Quem entra de outubro em diante (multiplicador 0) embarca como integracao, fora da corrida.
+
 ## Nota historica — corte coletivo (extinto em 31/07/2026)
 
 A regra do "minimo de 200 pts para embarcar pelo coletivo" **morreu com as tres camadas**

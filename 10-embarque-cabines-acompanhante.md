@@ -8,13 +8,27 @@ de pontuacao dos capitulos 02-07 seguem valendo). Vigencia: **relancamento de 03
 
 ---
 
-## Camada 1 — EMBARQUE: todos vao
+## Camada 1 — EMBARQUE: piso de trabalho feito
 
-Condicao unica: contrato de prestacao de servicos **ativo** ate 31/12/2026 e **sem penalidade
-grave** (-50) no ano.
+*(Atualizado em 01/08/2026 — vigencia com o aceite do regulamento, ate 15/08.)*
 
-Ninguem fica no porto. O medo de ficar de fora — que faz alguem desistir em outubro e parar de
-produzir — sai da mesa. O que muda com o esforco e o **conforto**, nao o bilhete.
+Embarca quem fechar o ano com:
+
+1. Contrato de prestacao de servicos **ativo** ate 31/12/2026 e **sem penalidade grave**; E
+2. **1.000 pontos no placar** — piso unico para todos. O multiplicador de entrada (`08`) ja
+   esta embutido nos pontos, entao o piso e proporcional por construcao: quem entra em setembro
+   ganha ×3 por mes e alcanca os mesmos 1.000 fazendo o proprio trabalho.
+
+**O piso e trabalho feito, nao brilho.** Toda regua alcanca 1.000 executando o basico dela:
+closer mantendo o ritmo ja passa (Arthur: ~1.175) · CS na meta passa folgado (~1.800) · Growth
+batendo a regua nova passa (~1.010) · COO com lancamentos em dia passa (~1.340) · assistente
+com "Medio" consistente + bonus IA passa (~1.060).
+
+**Salvaguardas (clausulas do regulamento):**
+- **Dado faltante resolve a favor do participante** — ninguem fica em terra porque a margem ou
+  a classificacao nao foram lancadas. Sem dado lancado, o item conta como cumprido no piso.
+- Quem entra de **outubro em diante**: embarque de integracao (cabine Interna), fora da corrida.
+- Comunicacao individual e mensal de quanto falta — o piso nunca pode ser surpresa de dezembro.
 
 ## Camada 2 — CABINE: conquista individual
 
@@ -80,7 +94,7 @@ que o ponto da Kamila depende do Arthur vender e vice-versa.
 
 | Regra antiga | Substituida por |
 |--------------|-----------------|
-| "1.000 pts = Suite garantida, nao importa o time" | Suite em 2.000 · embarque garantido a todos |
+| "1.000 pts = Suite garantida, nao importa o time" | Suite em 2.000 · embarque com piso de 1.000 (trabalho feito) |
 | "Coletivo: R$400M + 200 pts minimos" | Gatilho de familias/receita da Camada 3 |
 | "Abaixo de 200 pts = fora do cruzeiro" | Ninguem fica fora — fica na Interna |
 

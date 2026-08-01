@@ -26,9 +26,13 @@ Com a meta do time batida, o Adrian classifica a contribuicao do Mateus no mes:
 
 | Nivel | Pontos | Criterio |
 |-------|--------|----------|
-| **Pouco** | +25 pts | Fez o operacional — fichas em dia, CRM atualizado, agenda organizada |
-| **Medio** | +55 pts | Operacional + gerou reuniao ou oportunidade que virou proposta |
-| **Muito** | +100 pts | Operacional + participou diretamente de venda fechada |
+| **Pouco** | +40 pts | Fez o operacional — fichas em dia, CRM atualizado, agenda organizada |
+| **Medio** | +100 pts | Operacional + gerou reuniao ou oportunidade que virou proposta |
+| **Muito** | +150 pts | Operacional + participou diretamente de venda fechada |
+
+> **Recalibrado em 01/08/2026** (era 25/55/100): com o embarque exigindo 1.000 pts, a regua
+> antiga contradizia o piso — fazendo o trabalho BEM (Medio), o teto era ~700. Agora "Medio"
+> consistente + bonus IA em dia alcanca o embarque (~1.060); "Muito" chega a Vista Mar.
 
 **Sem multiplicador.** Os valores acima ja sao finais.
 
@@ -49,15 +53,15 @@ Com a meta do time batida, o Adrian classifica a contribuicao do Mateus no mes:
 
 Partindo dos 210 pts + retroativo jun/jul destravado, com ago-dez pela frente:
 
-| Cenario | Dezembro | Cabine |
-|---------|----------|--------|
-| Retro "Muito" x2 + "Muito" todo mes + bonus IA cheio | ~1.060 | Vista Mar |
-| Retro "Medio" x2 + "Medio" todo mes | ~595 | Interna |
-| Time nao bate R$12M | 210 congelado | Interna |
+| Cenario | Dezembro | Embarca? |
+|---------|----------|----------|
+| Retro "Muito" x2 + "Muito" todo mes + IA cheio | ~1.410 | ✅ Vista Mar |
+| Retro "Medio" x2 + "Medio" todo mes + IA em dia | ~1.060 | ✅ Interna (embarca) |
+| Retro "Medio" x2 + "Medio" todo mes, sem IA | ~910 | ⛔ abaixo do piso |
+| Time nao bate R$12M | 210 congelado | ⛔ |
 
-**Teto real do assistente: Vista Mar** (e so com IA em dia). Assistente nao empata com quem
-carrega carteira — e por desenho. O embarque dele esta garantido pela Camada 1 (`10`);
-a classificacao do Adrian decide o conforto.
+**Teto real do assistente: Vista Mar.** Assistente nao empata com quem carrega carteira — e
+por desenho. E o bonus IA nao e enfeite pra ele: **e a diferenca entre embarcar e nao embarcar.**
 
 ## Bonus IA
 

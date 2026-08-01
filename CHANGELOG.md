@@ -4,6 +4,24 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 01/08/2026 (tarde) — Embarque vira piso de 1.000 · assistente recalibrado · ancora de custeio
+
+Decisao do Anthony: com as reguas recalibradas, 1.000 pontos e alcancavel por TODA regua
+fazendo o proprio trabalho — entao o embarque deixa de ser incondicional e vira **piso de
+trabalho feito**. Vigencia: com o aceite do regulamento (ate 15/08), anunciado antes.
+
+- **Camada 1 nova:** contrato ativo + sem penalidade grave + **1.000 pts no placar** (piso unico —
+  o multiplicador do `08` ja torna proporcional; out+ = embarque de integracao).
+- **Salvaguarda de dado:** ninguem fica em terra por margem/classificacao nao lancada — dado
+  faltante resolve a favor do participante. Comunicacao mensal de quanto falta.
+- **Assistente recalibrado** (25/55/100 → **40/100/150**): a regua antiga contradizia o piso
+  (Medio bem feito dava ~700). Agora Medio + IA em dia embarca; o bonus IA do Mateus deixou de
+  ser enfeite — e a diferenca entre embarcar e nao embarcar.
+- **Ancora de custeio na escada:** 2025 fechou em R$148M. R$200M (+35%) e o MINIMO que paga o
+  programa · R$250M+ (+69%) e o patamar ideal · R$400M e a missao.
+
+---
+
 ## 01/08/2026 — Venda como gatilho no CS · media movel · gatilho conta a casa toda · varredura de congruencia
 
 Pacote aprovado pelo Anthony apos o Monte Carlo do sistema (20k simulacoes, P(>=200M) 68% -> 84%
