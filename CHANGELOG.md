@@ -4,6 +4,16 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 18/09/2026 — Head de Growth: divergência registrada, sem alteração de regra
+
+A call de onboarding prometeu participação de Victor Ciampi com três meses de pontuação, mas a
+regra vigente contém piso de quatro meses, contrato ativo até 31/12 e régua de Growth hoje
+misturada a Sistemas/Nériton. A divergência foi registrada em
+[`11-decisao-pendente-head-growth-2026-09.md`](./11-decisao-pendente-head-growth-2026-09.md).
+Nenhum ponto, embarque, coletor ou site foi alterado; depende de decisão expressa e regra canônica.
+
+---
+
 ## 01/08/2026 (final) — Bonus de Missao corrigido: SO os R$400M destravam; o OTE decide quantas
 
 Correcao do Anthony sobre a versao escalonada: nao ha 13a em 300M nem 14a em 350M. O bonus
