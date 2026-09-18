@@ -12,7 +12,7 @@ canônicas abaixo.
 | Tema | Fonte vigente | Divergência |
 |---|---|---|
 | Piso de entrada | `08-entrada-proporcional.md`: quatro meses; quem entra de outubro em diante é integração | Entrada em 18/09 fica no limite da regra do dia 15 e não equivale automaticamente a três meses de pontuação. |
-| Vigência | `10-embarque-cabines-acompanhante.md`: contrato ativo até 31/12/2026 | O ciclo individual informado termina em 19/12/2026; não satisfaz literalmente o requisito de 31/12. |
+| Vigência | `10-embarque-cabines-acompanhante.md`: contrato ativo até 31/12/2026 | A vigência adotada em RH/contrato deve ser conferida na fonte aplicável; a call não definiu exceção ao requisito de 31/12. A elegibilidade permanece pendente dessa decisão. |
 | Embarque | `10`: ativo até 31/12 + 1.000 pontos; `08`: outubro em diante recebe embarque de integração | A fala de “vai participar” não especifica se é corrida, embarque de integração ou exceção ao piso. |
 | Régua | `04-pontuacao-growth.md` é a régua histórica de Growth/Sistemas e inclui elementos próprios de Nériton | Head de Growth requer régua separada, com entregas da cadeira; não se pode atribuir pontos da régua de Sistemas. |
 
