@@ -15,6 +15,7 @@ Programa de incentivo anual do Grupo Mirandas.
 
 > Detalhe das camadas: [10-embarque-cabines-acompanhante.md](./10-embarque-cabines-acompanhante.md).
 > Entrou depois de janeiro? Multiplicador proporcional: [08-entrada-proporcional.md](./08-entrada-proporcional.md).
+> Caso Head de Growth iniciado em 18/09: [decisão pendente](./11-decisao-pendente-head-growth-2026-09.md); nenhuma pontuação ou embarque foi alterado.
 
 ---
 
@@ -43,6 +44,7 @@ Programa de incentivo anual do Grupo Mirandas.
 | [08-entrada-proporcional.md](./08-entrada-proporcional.md) | Quem entra no meio do ano — multiplicador e cortes proporcionais |
 | [09-regras-de-borda.md](./09-regras-de-borda.md) | As 12 situacoes de excecao — saida, licenca, cancelamento, contestacao |
 | [10-embarque-cabines-acompanhante.md](./10-embarque-cabines-acompanhante.md) | As tres camadas do premio — embarque, cabine, acompanhante |
+| [11-decisao-pendente-head-growth-2026-09.md](./11-decisao-pendente-head-growth-2026-09.md) | Divergência documentada; decisão expressa necessária antes de alterar regra/coletor/site |
 | [CHANGELOG.md](./CHANGELOG.md) | Historico de mudancas de regra |
 
 > Placar individual: ao vivo em [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br) (atualizacao automatica diaria + fechamento dia 30).
