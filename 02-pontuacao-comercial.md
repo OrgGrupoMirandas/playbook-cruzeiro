@@ -4,9 +4,9 @@ O setor comercial tem **tres reguas**, porque tem tres papeis diferentes:
 
 | Regua | Quem | Onde |
 |-------|------|------|
-| **Closer** | Arthur Bueno | secao 1 |
+| **Closer** | Arthur Bueno e Kelly Rodrigues (a partir de setembro) | secao 1 |
 | **Gerente** | Adrian Paiva (promovido em teste 01/07/2026) | secao 2 |
-| **Ramp-up** | Pedro Pasin (entrou 01/07/2026) | secao 3 |
+| **Ramp-up** | Kelly Rodrigues (corrida a partir de setembro); Pedro Pasin (historico jul–ago) | secao 3 |
 
 Base de calculo em todas: valor **LIQUIDO** (vendido - inadimplencia).
 
@@ -61,7 +61,8 @@ de gerente: sai de 50 pts (closer) para **110 pts**, porque o time bateu R$12M m
 venda pessoal dele em R$3,86M. E exatamente o que a regua nova existe para capturar.
 
 O gerente ainda vende, mas o peso principal migra para o resultado do time.
-Time = **Adrian + Arthur + Pedro** (liquido somado no mes).
+Time = **Adrian + Arthur + Pedro** ate agosto; **Adrian + Arthur + Kelly** a partir de setembro
+(liquido somado no mes). Pedro saiu durante a corrida e nao concorre ao premio.
 
 ## Venda propria — peso 0,5
 
@@ -112,7 +113,7 @@ mas tambem nao fica sem cobranca.
 - **Close rate:** tabela normal da secao 1, sem degrau
 - O **multiplicador de entrada proporcional** (`08`) se aplica normalmente por cima
 
-## Pedro Pasin — caso vigente
+## Pedro Pasin — historico ate agosto/2026
 
 | | |
 |---|---|
@@ -122,6 +123,16 @@ mas tambem nao fica sem cobranca.
 | Embarque | piso de 1.000 no placar — o ×2 ja esta embutido nos pontos dele |
 | Ramp-up | jul–ago R$2M · set R$4M · out+ R$6M |
 | Julho real | R$2,05M · CR 7,1% · 5 vendas — meta do degrau batida |
+
+Pedro saiu durante a corrida e perdeu a elegibilidade e a pontuacao no placar publico.
+Os snapshots anteriores permanecem apenas para auditoria.
+
+## Kelly Rodrigues — caso vigente
+
+Kelly entrou em 20/08/2026 (Bitrix 37257). Pela regra do dia 15, a corrida comeca em
+setembro, com multiplicador **×3,00** (12 ÷ 4 meses). Setembro e o primeiro mes de
+ramp-up: piso R$1M liquido, meta R$2M liquidos. O resultado mensal permanece parcial
+ate o fechamento e a validacao da primeira parcela.
 
 ---
 

@@ -4,6 +4,15 @@ Historico de mudancas de regra. Toda alteracao registrada aqui com data e motivo
 
 ---
 
+## 25/09/2026 — Cadastro de Pedro e Kelly sincronizado com a regra vigente
+
+Pedro Pasin saiu durante a corrida e nao aparece mais no placar; snapshots de jul–ago
+ficam para auditoria. Kelly Rodrigues entrou em 20/08 e comeca a pontuar em setembro,
+com multiplicador x3 e ramp-up do primeiro mes. A composicao do time comercial foi
+atualizada sem alterar a regua de pontos. Headcount ativo: 9.
+
+---
+
 ## 18/09/2026 — Head de Growth: divergência registrada, sem alteração de regra
 
 A call de onboarding prometeu participação de Victor Ciampi com três meses de pontuação, mas a

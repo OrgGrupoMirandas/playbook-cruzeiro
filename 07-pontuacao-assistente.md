@@ -9,7 +9,8 @@ O assistente nao vende sozinho — ele faz o time vender mais. Por isso a pontua
 
 **Se o time comercial fechar o mes abaixo de R$12M liquido, o Mateus pontua 0.**
 
-Time = **Adrian + Arthur + Pedro** (liquido somado no mes) — exatamente o mesmo numero
+Time = **Adrian + Arthur + Pedro** ate agosto; **Adrian + Arthur + Kelly** a partir de setembro
+(liquido somado no mes) — exatamente o mesmo numero
 que o gerente persegue na secao 2 do `02`.
 
 > **Por que mudou (31/07/2026):** a trava antiga era "Adrian fechar R$6M liquido pessoal".

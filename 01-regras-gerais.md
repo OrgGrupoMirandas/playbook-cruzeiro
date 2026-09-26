@@ -5,7 +5,7 @@
 - **Duracao da corrida:** Janeiro a Dezembro de 2026
 - **Embarque:** 2027 — Porto de Santos (data definida na contratacao da viagem, comunicada ate 30/11/2026)
 - **Destino:** America do Sul
-- **Participantes:** 8 colaboradores do Grupo Mirandas
+- **Participantes:** 9 colaboradores ativos do Grupo Mirandas em 25/09/2026
 - **Placar ao vivo:** [cruzeiro.grupomirandas.com.br](https://cruzeiro.grupomirandas.com.br)
 
 ---
